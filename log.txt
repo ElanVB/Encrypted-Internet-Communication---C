@@ -1,0 +1,3 @@
+[ERROR] in location : message1 message2 
+[WARNING] in message1 : location message2 
+[INFO] in message2 : location message1 
